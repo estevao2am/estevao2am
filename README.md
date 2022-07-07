@@ -6,8 +6,6 @@
 
 - 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/estevao2am](https://github.com/estevao2am)
 
-- 💬 Pergunte-me sobre **Java, Linux e Arduino**
-
 - 📫 Contato: **estevao2am@gmail.com**
 
 - 📄 Sobre mim: [Estevão Mbala](https://www.linkedin.com/in/estevão-mbala-611a8123a/)
