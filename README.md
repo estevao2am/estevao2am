@@ -1,6 +1,6 @@
 <h1 align="center">Olá 👋🏻, Estevão Mbala</h1>
 
-- 🔭 No momento estou trabalhando com [ Javascript Html & CSS, Node js, React js, Next js,]
+- 🔭 No momento estou trabalhando com [ Javascript, Html & CSS, Node js, React js, Next js,]
 
 - 🌱 Atualmente estou me aperfeiçoando em **Java | Spring Boot, Linux e Arduino**
 
@@ -10,11 +10,11 @@
 
 - 📫 Contato: **estevao2am@gmail.com**
 
-- 📄 Sobre mim: [Estevão Mbala](https://www.linkedin.com/in/estevao2am)
+- 📄 Sobre mim: [Estevão Mbala](https://www.linkedin.com/in/estevão-mbala-611a8123a/)
 
 <h3 align="left">Siga-me nas redes sociais:</h3>
 <p align="left">
-<a href="https://twitter.com/joseassis" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseassis" height="30" width="40" /></a>
+<a href="https://twitter.com/estevao2am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseassis" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/estevão-mbala-611a8123a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estevao2am" height="30" width="40" /></a>
 <a href="https://fb.com/estevao2am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="estevao2am" height="30" width="40" /></a>
 <a href="https://instagram.com/lemikixi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="estevao2am" height="30" width="40" /></a>
