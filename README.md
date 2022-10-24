@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋🏻, Estevão Mbala</h1>
+<h1 align="center">👋🏻, Sou o Estevão Mbala</h1>
 
 - 🔭 No momento estou trabalhando com [ Javascript, Html & CSS, Node js, React js, Next js,]
 
