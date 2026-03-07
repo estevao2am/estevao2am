@@ -48,6 +48,6 @@ I enjoy sharing what I learn while continuously improving my skills in **softwar
 
 If you'd like to talk about technology, projects, or opportunities, feel free to reach out.
 
-<a href="https://www.linkedin.com/in/liviacalderan">
+<a href="[https://www.linkedin.com/in/liviacalderan](https://www.linkedin.com/in/estev%C3%A3o-mbala-611a8123a/)">
 <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
 </a>
