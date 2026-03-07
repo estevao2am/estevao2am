@@ -14,8 +14,9 @@ I enjoy sharing what I learn while continuously improving my skills in **softwar
 ## 🚀 Tech Stack
 
 ### Backend
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
 ![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 
 ### Frontend
