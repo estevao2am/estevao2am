@@ -1,23 +1,52 @@
-<h1 align="center">👋🏻, Sou o Estevão Mbala</h1>
+## Hi there 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="computer illustration" min-width="400px" max-width="400px" width="400px" align="right">
 
-- 🔭 No momento estou trabalhando com [ Javascript, Html & CSS, Node js, React js, Next js,]
+I'm Estevão , a Full Stack Developer passionate about building scalable web applications.
 
-- 🌱 Atualmente estou me aperfeiçoando em **Java | Spring Boot, Linux e Arduino**
+I have a strong focus on **Java and Spring Boot for backend development**, along with experience building modern interfaces using **React, JavaScript and TailwindCSS**.
 
-- 👨‍💻 Todos os meus projetos estão disponíveis em: [https://github.com/estevao2am](https://github.com/estevao2am)
+ I'm currently looking for opportunities where I can contribute, grow as a developer and work on meaningful projects.
 
-- 📫 Contato: **estevao2am@gmail.com**
+I enjoy sharing what I learn while continuously improving my skills in **software architecture, APIs, and modern web development**.
 
-- 📄 Sobre mim: [Estevão Mbala](https://www.linkedin.com/in/estevão-mbala-611a8123a/)
+---
 
-<h3 align="left">Siga-me nas redes sociais:</h3>
-<p align="left">
-<a href="https://twitter.com/estevao2am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="joseassis" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/estevão-mbala-611a8123a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="estevao2am" height="30" width="40" /></a>
-<a href="https://fb.com/estevao2am" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="estevao2am" height="30" width="40" /></a>
-<a href="https://instagram.com/lemikixi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="estevao2am" height="30" width="40" /></a>
-</p>
+## 🚀 Tech Stack
 
-<h3 align="left">Linguagens e ferramentas do meu dia a dia:</h3>
-<p align="left">  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
+### Backend
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java)
+![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring)
 
+
+### Frontend
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+
+### DevOps & Cloud
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=aws)
+![Terraform](https://img.shields.io/badge/-Terraform-333333?style=flat&logo=terraform)
+
+### Databases
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+
+### Tools
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+
+---
+
+## 📫 Let's connect
+
+If you'd like to talk about technology, projects, or opportunities, feel free to reach out.
+
+<a href="https://www.linkedin.com/in/liviacalderan">
+<img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white"/>
+</a>
