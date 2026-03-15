@@ -3,7 +3,7 @@
 
 I'm Estevão , a Full Stack Developer passionate about building scalable web applications.
 
-I have a strong focus on **Java and Spring Boot for backend development**, along with experience building modern interfaces using **React, JavaScript and TailwindCSS**.
+I have a strong focus on **Node js for backend development**, along with experience building modern interfaces using **React/React Native and Typescript**.
 
  I'm currently looking for opportunities where I can contribute, grow as a developer and work on meaningful projects.
 
@@ -14,8 +14,7 @@ I enjoy sharing what I learn while continuously improving my skills in **softwar
 ## 🚀 Tech Stack
 
 ### Backend
-![SpringBoot](https://img.shields.io/badge/-SpringBoot-333333?style=flat&logo=Spring)
-![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 
@@ -25,6 +24,7 @@ I enjoy sharing what I learn while continuously improving my skills in **softwar
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
+![React Native](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
 
 ### DevOps & Cloud
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
