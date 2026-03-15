@@ -40,7 +40,8 @@ I enjoy sharing what I learn while continuously improving my skills in **softwar
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 ![VS Code](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse)
+![Android](https://img.shields.io/badge/-Android-3DDC84?style=flat&logo=android&logoColor=white)
+![Xcode](https://img.shields.io/badge/-Xcode-007ACC?style=flat&logo=apple&logoColor=white)
 
 ---
 
