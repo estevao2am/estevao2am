@@ -19,8 +19,7 @@ I enjoy sharing what I learn while continuously improving my skills in **softwar
 
 
 ### Frontend
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=CSS3)
 ![Tailwind](https://img.shields.io/badge/-TailwindCSS-333333?style=flat&logo=tailwind-css)
